@@ -1,0 +1,1 @@
+update studetns set city = "Edinburgh";
